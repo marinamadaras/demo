@@ -19,3 +19,5 @@ Give admins write access to all orders
 Add all orders to admins overview
 
 Add sorting by date and filter by restaurant options
+
+Add a POST endpoint for adding a user
