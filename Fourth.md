@@ -13,3 +13,5 @@ Fixed DELETE endpoint to only call one repo
 Add OrderService
 
 Refactor to have fewer dependency injections
+
+Fix cascade deletion removing both users and orders
