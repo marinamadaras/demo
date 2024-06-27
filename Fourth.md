@@ -11,3 +11,5 @@ Fix clients not having access to restaurant's ratings
 Fixed DELETE endpoint to only call one repo
 
 Add OrderService
+
+Refactor to have fewer dependency injections
