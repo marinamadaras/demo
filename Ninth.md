@@ -25,3 +25,5 @@ Add a POST endpoint for adding a user
 Add tests for admin functionality
 
 Add a GET endpoint for user's recent orders
+
+Add dark mode the color themes
