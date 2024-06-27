@@ -17,3 +17,5 @@ Refactor to have fewer dependency injections
 Fix cascade deletion removing both users and orders
 
 Add integration tests from user perspective
+
+Make admin tests
