@@ -13,3 +13,5 @@ Make mock repositories for testing
 Adds admin screen functionality
 
 Change color theme in admin mode to be green
+
+Give admins write access to all orders
