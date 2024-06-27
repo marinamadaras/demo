@@ -1,3 +1,3 @@
 # Fourth File
 
-Endpoint for GET all ratings of a restaurant
+Endpoint for GET all available couriers
